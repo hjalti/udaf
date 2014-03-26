@@ -1,6 +1,22 @@
-
-Forritunarbúðir HR
+Uppbyggilegt dót á föstudögum -- Vika 1
 ==================
+
+Velkomin á fyrsta fundinn, samkomuna, eða hreinlega dótið hér í HR.
+
+Ef þú kannt ekki neitt að forrita skaltu lesa áfram héðan, annars GOTO 2;
+
+Erfiðasti hlutinn við að læra að forrita er að vita hvar skal byrja, og hvert skal stefna.
+Í slíkri stöðu er best að fara að ráðum Kóngsins úr Lísu í Undralandi, og byrja á byrjuninni.
+Það sem fram fer hér er ekki beinlínis skipulagt prógram, með skilafrestum og ákveðnum verkefnum,
+en hér ættirðu að fá umgjörð til að vinna með, sem við vitum að mun leiða þig áfram þar til þú ákveður að þú getir með sanni kallast forritari.
+
+
+2:
+
+samkomu, eða hreinlega fyrsta dótið hér í HR.
+
+Það sem fram fer hér er ekki beinlínis skipulagt félagsstarf í hefðbundnum skilningi,
+og hér er ekkert bei
 
 Velkomin(n) á undirbúning fyrir [Forritunarkeppni Framhaldsskólanna
 2014](http://forritun.is). Keppnin sjálf verður haldin 22. mars næstkomandi.
