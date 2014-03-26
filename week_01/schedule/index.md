@@ -5,22 +5,24 @@ Velkomin á fyrsta fundinn, samkomuna, eða hreinlega dótið hér í HR.
 
 Ef þú kannt ekki neitt að forrita skaltu lesa áfram héðan, annars GOTO 2;
 
-Erfiðasti hlutinn við að læra að forrita er að vita hvar skal byrja, og hvert skal stefna.
-Í slíkri stöðu er best að fara að ráðum Kóngsins úr Lísu í Undralandi, og byrja á byrjuninni.
-Það sem fram fer hér er ekki beinlínis skipulagt prógram, með skilafrestum og ákveðnum verkefnum,
-en hér ættirðu að fá umgjörð til að vinna með, sem við vitum að mun leiða þig áfram þar til þú ákveður að þú getir með sanni kallast forritari.
-
+Erfiðasti hlutinn við að læra að forrita er að vita hvar skal byrja, og hvert
+skal stefna.  Í slíkri stöðu er best að fara að ráðum Kóngsins úr Lísu í
+Undralandi, og byrja á byrjuninni.  Það sem fram fer hér er ekki beinlínis
+skipulagt prógram, með skilafrestum og ákveðnum verkefnum, en hér ættirðu að fá
+umgjörð til að vinna með, sem við vitum að mun leiða þig áfram þar til þú
+ákveður að þú getir með sanni kallast forritari.
 
 2:
 
-samkomu, eða hreinlega fyrsta dótið hér í HR.
+Það er sjaldan sem maður lærir jafn mikið og með góðu fólki að vinna að góðu
+verkefni. Einhvern veginn er endalaust af vim snilld, bash scriptum, og
+forritunartrixum sem hafa farið framhjá manni. Og það er sjaldan sem manni
+detta í hug fleiri góð verkefni en með góðu fólki. Hér mun þér standa til boða
+að vinna í þeim verkefnum sem við leggjum til, til dæmis forritunarkeppni
+framhaldsskólanna nú í kvöld. En þetta er einnig vettvangurinn til að vinna í
+eigin hugmyndum og verkefnum, sem jafnvel verða til hér;
 
-Það sem fram fer hér er ekki beinlínis skipulagt félagsstarf í hefðbundnum skilningi,
-og hér er ekkert bei
-
-Velkomin(n) á undirbúning fyrir [Forritunarkeppni Framhaldsskólanna
-2014](http://forritun.is). Keppnin sjálf verður haldin 22. mars næstkomandi.
-Endilega skráðu þig ef þú hefur áhuga!
+Hvort sem þið eruð byrjendur eða hakkarar: VELKOMIN!
 
 Aðgangur að interneti
 ---------------------
