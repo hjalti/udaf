@@ -20,7 +20,7 @@ forritunartrixum sem hafa farið framhjá manni. Og það er sjaldan sem manni
 detta í hug fleiri góð verkefni en með góðu fólki. Hér mun þér standa til boða
 að vinna í þeim verkefnum sem við leggjum til, til dæmis forritunarkeppni
 framhaldsskólanna nú í kvöld. En þetta er einnig vettvangurinn til að vinna í
-eigin hugmyndum og verkefnum, sem jafnvel verða til hér;
+eigin hugmyndum og verkefnum, sem jafnvel verða til hér!
 
 Hvort sem þið eruð byrjendur eða hafið ekki séð sólina í tíu ár:
 VELKOMIN!
