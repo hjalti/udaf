@@ -22,7 +22,8 @@ að vinna í þeim verkefnum sem við leggjum til, til dæmis forritunarkeppni
 framhaldsskólanna nú í kvöld. En þetta er einnig vettvangurinn til að vinna í
 eigin hugmyndum og verkefnum, sem jafnvel verða til hér;
 
-Hvort sem þið eruð byrjendur eða hakkarar: VELKOMIN!
+Hvort sem þið eruð byrjendur eða hafið ekki séð sólina í tíu ár:
+VELKOMIN!
 
 Aðgangur að interneti
 ---------------------
@@ -30,7 +31,7 @@ Aðgangur að interneti
 Notið þráðlausa tengipunktinn HR-Guest. Notandanöfn og lykilorð verða skrifuð
 upp á töflu.
 
-Dagskráin í dag
+Dagskrá
 ---------------
 
 Við byrjum kl. 11 í dag og munum vera til kl. 15. Öllum er velkomið að vera
