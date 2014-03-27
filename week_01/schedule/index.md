@@ -3,7 +3,7 @@ Uppbyggilegt dót á föstudögum -- Vika 1
 
 Velkomin á þennan fund, samkomu, eða hreinlega snilld hér í HR.
 
-Ef þú kannt ekki neitt að forrita skaltu lesa áfram héðan, annars GOTO 2;
+Ef þú kannt ekki neitt að forrita skaltu lesa áfram héðan, annars, goto 2;
 
 Erfiðasti hlutinn við að læra að forrita er að vita hvar skal byrja, og hvert
 skal stefna.  Í slíkri stöðu er best að fara að ráðum kóngsins úr Lísu í
@@ -22,19 +22,16 @@ framhaldsskólanna nú í kvöld. En þetta er einnig vettvangurinn til að vinn
 eigin hugmyndum og verkefnum.
 
 Hvort sem þið eruð byrjendur eða hafið lögheimil í Linux kjarnanum:
-VELKOMIN!
+Velkomin!
 
 Aðgangur að interneti
 ---------------------
 
-Notið þráðlausa tengipunktinn HR-Guest. Notandanöfn og lykilorð verða skrifuð
-upp á töflu.
+Notið þráðlausa tengipunktinn HR-Students. Notendanöfn og lykilorð eru skrifuð upp á töflu.
 
 Dagskrá
 ---------------
-Partýið byrjar klukkan 19.
-
-Við reiknum með að pítsan verði komin upp úr átta. Áður er það hefst mun Hjalti
+Partýið byrjar klukkan 19. Við reiknum með að pítsan verði komin upp úr átta. Áður er það hefst mun Hjalti
 Magnússon forrita live uppi á skjávarpa, forrit sem spilar 2048.
 
 Við setjum fram fjórar tillögur að athæfi eftir forritunarreynslu. Endilega
