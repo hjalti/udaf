@@ -47,6 +47,9 @@ JavaScript, og læra allt frá grunni yfir í að vinna stærri verkefni. Fyrir 
 það að það er miklu skemmtilegra að gera það hér, þá flýtir það oft fyrir að
 geta spurt einhvern og fengið leiðbeiningar ef eitthvað meikar ekki sense.
 
+### Fyllimengi byrjenda
+
+
 ### Delta
 Ef þú kannt grunnhugtök í forritun, þá geturðu reynt við gömul dæmi úr Delta
 deildinni í forritunarkeppni framhaldsskólanna. Sem dæmi:
