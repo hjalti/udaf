@@ -1,4 +1,4 @@
-Uppbyggilegt dót á föstudögum -- Vika 1
+Forritunardót -- Vika 1
 ==================
 
 Velkomin á þennan fund, samkomu, eða hreinlega snilld hér í HR.
