@@ -44,6 +44,9 @@ JavaScript, og læra allt frá grunni yfir í að vinna stærri verkefni. Fyrir 
 það að það er miklu skemmtilegra að gera það hér, þá flýtir það oft fyrir að
 geta spurt einhvern og fengið leiðbeiningar ef eitthvað meikar ekki sense.
 
+Ef þér er svo alvara með að læra að forrita, þá er ekki síður mikilvægt að ræða
+við reynslumeiri einstaklinga.
+
 ### Fyllimengi byrjenda
 
 
