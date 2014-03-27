@@ -1,28 +1,27 @@
 Uppbyggilegt dót á föstudögum -- Vika 1
 ==================
 
-Velkomin á fyrsta fundinn, samkomuna, eða hreinlega dótið hér í HR.
+Velkomin á þennan fund, samkomu, eða hreinlega snilld hér í HR.
 
 Ef þú kannt ekki neitt að forrita skaltu lesa áfram héðan, annars GOTO 2;
 
 Erfiðasti hlutinn við að læra að forrita er að vita hvar skal byrja, og hvert
-skal stefna.  Í slíkri stöðu er best að fara að ráðum Kóngsins úr Lísu í
+skal stefna.  Í slíkri stöðu er best að fara að ráðum kóngsins úr Lísu í
 Undralandi, og byrja á byrjuninni.  Það sem fram fer hér er ekki beinlínis
-skipulagt prógram, með skilafrestum og ákveðnum verkefnum, en hér ættirðu að fá
+skipulögð dagskrá, með skilafrestum eða ákveðnum verkefnum, en hér ættirðu að fá
 umgjörð til að vinna með, sem við vitum að mun leiða þig áfram þar til þú
-ákveður að þú getir með sanni kallast forritari.
+ákveður að þú getir með réttu kallast forritari.
 
 2:
 
 Það er sjaldan sem maður lærir jafn mikið og með góðu fólki að vinna að góðu
 verkefni. Einhvern veginn er endalaust af vim snilld, bash scriptum, og
-forritunartrixum sem hafa farið framhjá manni. Og það er sjaldan sem manni
-detta í hug fleiri góð verkefni en með góðu fólki. Hér mun þér standa til boða
+forritunartrixum sem hafa farið framhjá manni. Hér mun þér standa til boða
 að vinna í þeim verkefnum sem við leggjum til, til dæmis forritunarkeppni
 framhaldsskólanna nú í kvöld. En þetta er einnig vettvangurinn til að vinna í
-eigin hugmyndum og verkefnum, sem jafnvel verða til hér!
+eigin hugmyndum og verkefnum.
 
-Hvort sem þið eruð byrjendur eða hafið ekki séð sólina í tíu ár:
+Hvort sem þið eruð byrjendur eða hafið lögheimil í Linux kjarnanum:
 VELKOMIN!
 
 Aðgangur að interneti
@@ -33,21 +32,20 @@ upp á töflu.
 
 Dagskrá
 ---------------
+Partýið byrjar klukkan 19.
 
-Við byrjum kl. 11 í dag og munum vera til kl. 15. Öllum er velkomið að vera
-lengur en það, og verðum við líka áfram ef áhugi er fyrir. Pizza fyrir alla
-kemur um kl. 13.
+Við reiknum með að pítsan verði komin upp úr átta. Áður er það hefst mun Hjalti
+Magnússon forrita live uppi á skjávarpa, forrit sem spilar 2048.
 
-Þátttakendur í dag hafa mismikla reynslu af forritun. Við bjóðum því upp á
-eftirfarandi fjórar dagskrár sem byggja á mismunandi erfiðleikastigum. Þið
-vinnið sjálfstætt á ykkar hraða, en við aðstoðum ykkur svo ef ykkur vantar
-hjálp. Alls ekki vera feimin við að spyrja, við erum hér til að aðstoða ykkur!
+Við setjum fram fjórar tillögur að athæfi eftir forritunarreynslu. Endilega
+ræðið líka við einhvern human ef þörf þykir.
 
 ### Byrjendur
-Ef þú hefur aldrei forritað, eða ert bara að taka þín fyrstu skref í forritun,
-þá mælum við með [Codecademy ](http://codecademy.com). Þar er hægt að velja
-tungumál, t.d. Python eða JavaScript, og læra allt frá grunni yfir í að vinna
-stærri verkefni.
+Ef þú hefur aldrei forritað, eða eiginlega aldrei, þá mælum við með [Codecademy
+](http://codecademy.com). Þar er hægt að velja tungumál, t.d. Python eða
+JavaScript, og læra allt frá grunni yfir í að vinna stærri verkefni. Fyrir utan
+það að það er miklu skemmtilegra að gera það hér, þá flýtir það oft fyrir að
+geta spurt einhvern og fengið leiðbeiningar ef eitthvað meikar ekki sense.
 
 ### Delta
 Ef þú kannt grunnhugtök í forritun, þá geturðu reynt við gömul dæmi úr Delta
