@@ -44,43 +44,34 @@ JavaScript, og læra allt frá grunni yfir í að vinna stærri verkefni. Fyrir 
 það að það er miklu skemmtilegra að gera það hér, þá flýtir það oft fyrir að
 geta spurt einhvern og fengið leiðbeiningar ef eitthvað meikar ekki sense.
 
+Ef þú hefur einhverja reynslu af forritun, til dæmis eftir einn áfanga, getur verið gaman að spreyta sig á dæmum úr Delta deild (Morpheus) Forritunarkeppni framhaldsskólanna 2014. Hana er að finna á sĺóðinni 
+
+<http://mooshak2.ru.is/fk_2014_morpheus_virtual>
+
 Ef þér er svo alvara með að læra að forrita, þá er ekki síður mikilvægt að ræða
 við reynslumeiri einstaklinga.
 
-### Fyllimengi byrjenda
+### Ekki byrjendur
 
+Fyrir utan verkefnin úr Delta deild Forritunarkeppni framhaldsskólanema sem
+vísað er á fyrir ofan, er hægt að reyna við dæmin úr Beta deild
+forritunarkeppninnar (Trinity). Slóðin er 
 
-### Delta
-Ef þú kannt grunnhugtök í forritun, þá geturðu reynt við gömul dæmi úr Delta
-deildinni í forritunarkeppni framhaldsskólanna. Sem dæmi:
+<http://mooshak2.ru.is/fk_2014_trinity_virtual>
 
-- [Delta deild fyrir hádegi árið 2013](http://www.forritun.is/media/forritun-2013/Scotty_fyrir_hadegi.pdf)
-- [Delta deild eftir hádegi árið 2013](http://www.forritun.is/media/forritun-2013/Scotty_eftir_hadegi.pdf)
+Við höfum líka sett upp server með stórskemmtilegum dæmum úr
+Python námskeiði sem kennt var við HR síðasta sumar. Öfugt við
+forritunarkeppnina verður sá server örugglega uppi eftir kvöldið.
+Dæmin má finna á slóðinni
 
-- [Delta deild fyrir hádegi árið 2012](http://www.forritun.is/media/forritun/Verkefni-2012-HW_fyrirhadegi_keppendur.pdf)
-- [Delta deild eftir hádegi árið 2012](http://www.forritun.is/media/forritun/Verkefni-2012-HW_eftirhadegi_keppendur.pdf)
+<http://mooshak2.ru.is/~fkf>
 
-### Beta
-Ef þú hefur ágætis tök á forritun (Delta dæmin eru of einföld fyrir þig), þá
-geturðu reynt við gömul dæmi úr Beta deildinni. Sem dæmi:
+Og stigatafla sem sýnir lokin dæmi, og hversu langur kóðinn var er uppi á
+<http://mooshak2.ru.is/pystats>
 
-- [Beta deild árið 2013](http://mooshak2.ru.is/fk_2013_beta/)
-- [Beta deild eftir hádegi árið 2012](http://mooshak2.ru.is/fk_2012_beta/)
+En það er auðvitað frjálst að vinna í eigin verkefnum.
 
-Athugið að þessi dæmi eru sett upp á vefsíðu sem verður notuð í
-forritunarkeppninni þetta ár. Byrjið á að búa til notenda með því að smella á
-Register efst í hægra horninu. Þið getið svo valið ykkur dæmi og sent inn kóða.
-Vefsíðan byggir kóðann og keyrir á allskyns prufutilfelli til að athuga hvort
-lausnin sé rétt eða röng.
+### Ekki byrjendur - vol. 2
 
-Ef áhugi er fyrir, þá mun ég (Bjarki) fara yfir lausnir á Beta deild árið 2013.
-
-### Fleiri dæmi
-Ef þú ert orðin(n) örugg(ur) með dæmin í Beta deildinni, þá geturðu skoðað
-eftirfarandi dæmi:
-
-- [Aukadæmi](http://mooshak2.ru.is/bootcamp/)
-
-Þessi dæmi eru meðal annars tekin úr alþjóðlegum forritunarkeppnum fyrir
-háskólanemendur eins og [NCPC](http://ncpc.idi.ntnu.no/).
-
+Á slóðinni <http://mooshak2.ru.is/bootcamp> er safn af góðum
+keppnisforritunardæmum.
