@@ -1,6 +1,8 @@
 Forritunardót -- Vika 2
 ==================
 
+**ATH: Mæting í stofu M106. Gengið inn af ganginum á fyrstu hæð, sjávarmegin.**
+
 Velkomin á annan fund, samkomu, eða hreinlega snilld hér í HR.
 
 Ef þú kannt ekki neitt að forrita skaltu lesa áfram héðan, annars, goto 2;
@@ -24,15 +26,23 @@ eigin hugmyndum og verkefnum.
 Hvort sem þið eruð byrjendur eða hafið lögheimil í Linux kjarnanum:
 Velkomin!
 
-Aðgangur að interneti
+Aðgangur að interneti eða tölvu
 ---------------------
 
 Notið þráðlausa tengipunktinn HR-Students. Notendanöfn og lykilorð eru skrifuð upp á töflu.
 
+Ef þú ert ekki með fartölvu, þá hefurðu aðgang að tölvu í stofu M107. Sömu lykilorð ganga að tölvu og að netinu. *Ath:* Ekki sama stofa og síðast.
+
 Dagskrá
 ---------------
-Partýið byrjar klukkan 19. Við reiknum með að pítsan verði komin upp úr átta. Áður er það hefst mun Hjalti
-Magnússon forrita live uppi á skjávarpa, forrit sem spilar 2048.
+* 19:00: Partýið byrjar. Tengdu þig netinu og komdu þér fyrir (Ef þú ert ).
+* 19:10: Hjalti Magnússon, aðjúnkt við HR, með kennslu á reglulegar
+segðir, sem eru heldur betur spennandi, og ótrúlega hagnýtar. Meðan á kynningu
+stendur, og fram eftir kvöldi, verður uppi yfirferðarþjónn fyrir fólk til að
+æfa sig á reglulegum segðum. Þetta eru sömu æfingar og nemendur á fyrstu önn
+vinna við HR.
+
+Við reiknum með að pítsan verði komin upp úr átta.
 
 Við setjum fram fjórar tillögur að athæfi eftir forritunarreynslu. Endilega
 ræðið líka við einhvern human ef þörf þykir.
